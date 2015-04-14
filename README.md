@@ -1,6 +1,4 @@
 # Android
-My android projects
-
 
 I am ranjith 
 
